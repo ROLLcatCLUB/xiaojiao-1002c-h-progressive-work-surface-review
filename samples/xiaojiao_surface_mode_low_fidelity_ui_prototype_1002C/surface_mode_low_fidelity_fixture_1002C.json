@@ -1,0 +1,68 @@
+{
+    "stage_code":  "1002C_SURFACE_MODE_LOW_FIDELITY_UI_PROTOTYPE",
+    "fixture_type":  "surface_mode_low_fidelity_html_fixture",
+    "surface_modes":  [
+                          "light_entry",
+                          "focus_surface",
+                          "grid_studio",
+                          "analysis_board"
+                      ],
+    "wireframes":  {
+                       "analysis_board":  {
+                                              "visible_zones":  [
+                                                                    "student_work_gallery",
+                                                                    "evaluation_dimension",
+                                                                    "class_distribution",
+                                                                    "ai_candidate_comment",
+                                                                    "teacher_review"
+                                                                ]
+                                          },
+                       "focus_surface":  {
+                                             "visible_zones":  [
+                                                                   "primary_work_object",
+                                                                   "related_materials",
+                                                                   "attached_agent_note",
+                                                                   "source_path"
+                                                               ]
+                                         },
+                       "grid_studio":  {
+                                           "visible_zones":  [
+                                                                 "primary_work_zone",
+                                                                 "resource_zone",
+                                                                 "tool_zone",
+                                                                 "flow_zone",
+                                                                 "agent_note_layer"
+                                                             ]
+                                       },
+                       "light_entry":  {
+                                           "hidden_zones":  [
+                                                                "grid_studio",
+                                                                "analysis_board"
+                                                            ],
+                                           "visible_zones":  [
+                                                                 "today_summary",
+                                                                 "agent_note",
+                                                                 "action_chips"
+                                                             ]
+                                       }
+                   },
+    "low_fidelity_only":  true,
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "react_grid_layout_installed":  false,
+                           "dnd_kit_installed":  false,
+                           "gridstack_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "teacher_control_runtime_connected":  false,
+                           "public_display_runtime_connected":  false,
+                           "student_runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "production_ui_implemented":  false,
+                           "real_classroom_delivery_connected":  false
+                       }
+}
