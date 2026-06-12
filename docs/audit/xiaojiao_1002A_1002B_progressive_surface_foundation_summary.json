@@ -1,0 +1,17 @@
+{
+    "summary_date":  "2026-06-13",
+    "summary_code":  "1002_PROGRESSIVE_SURFACE_FOUNDATION_BASELINE_ACCEPTED",
+    "accepted_stages":  {
+                            "1002A":  "ACCEPT",
+                            "1002B":  "ACCEPT"
+                        },
+    "overall_status":  "1002_PROGRESSIVE_SURFACE_FOUNDATION_BASELINE_ACCEPTED",
+    "dependency_installed":  false,
+    "real_frontend_modified":  false,
+    "production_component_selected":  false,
+    "next_stage":  "1002C_TO_1002H_BIG_REVIEW_PACKAGE",
+    "source_review_decisions":  [
+                                    "docs/audit/xiaojiao_grid_based_dynamic_work_surface_tech_survey_and_contract_1002A_review_decision.json",
+                                    "docs/audit/xiaojiao_progressive_surface_mode_and_business_pack_layout_preset_fixture_1002B_review_decision.json"
+                                ]
+}
