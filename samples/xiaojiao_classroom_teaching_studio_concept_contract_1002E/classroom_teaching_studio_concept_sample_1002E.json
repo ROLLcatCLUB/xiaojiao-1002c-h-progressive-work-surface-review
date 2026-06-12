@@ -1,0 +1,79 @@
+{
+    "stage_code":  "1002E_CLASSROOM_TEACHING_STUDIO_CONCEPT_CONTRACT",
+    "fixture_type":  "classroom_teaching_studio_concept_contract_sample",
+    "teaching_scene_bundle":  [
+                                  "lesson_flow",
+                                  "display_blocks",
+                                  "teacher_cues",
+                                  "student_tasks",
+                                  "resources",
+                                  "timers",
+                                  "evaluation_points",
+                                  "interaction_points",
+                                  "work_state_bindings"
+                              ],
+    "teacher_control_surface":  [
+                                    "current_step",
+                                    "next_step",
+                                    "teacher_prompt",
+                                    "display_control",
+                                    "timer_control",
+                                    "student_submission_status",
+                                    "agent_hint",
+                                    "emergency_adjustment"
+                                ],
+    "public_display_surface":  [
+                                   "image_display",
+                                   "comparison_view",
+                                   "step_demo",
+                                   "task_instruction",
+                                   "student_work_wall",
+                                   "evaluation_dimension",
+                                   "countdown",
+                                   "classroom_board",
+                                   "interaction_prompt"
+                               ],
+    "classroom_tool_cards":  [
+                                 "generate_observation_question",
+                                 "generate_student_task",
+                                 "generate_board_structure",
+                                 "generate_evaluation_language",
+                                 "generate_layered_support",
+                                 "generate_summary"
+                             ],
+    "classroom_resource_cards":  [
+                                     "image",
+                                     "video",
+                                     "ppt_fragment",
+                                     "document",
+                                     "student_work",
+                                     "board_material",
+                                     "ai_generated_visual"
+                                 ],
+    "principles":  {
+                       "can_import_ppt_resources":  true,
+                       "not_constrained_by_slide_order":  true,
+                       "public_display_student_facing_only":  true,
+                       "teacher_and_public_surfaces_separate":  true,
+                       "no_real_display_runtime":  true,
+                       "ppt_is_not_product_model":  true
+                   },
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "react_grid_layout_installed":  false,
+                           "dnd_kit_installed":  false,
+                           "gridstack_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "teacher_control_runtime_connected":  false,
+                           "public_display_runtime_connected":  false,
+                           "student_runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "production_ui_implemented":  false,
+                           "real_classroom_delivery_connected":  false
+                       }
+}
