@@ -1,0 +1,92 @@
+{
+    "package_name":  "xiaojiao_classroom_teaching_studio_concept_contract_1002E",
+    "package_code":  "1002_XIAOJIAO_PROGRESSIVE_DYNAMIC_WORK_SURFACE_BIG_REVIEW_PACKAGE",
+    "stage_code":  "1002E_CLASSROOM_TEACHING_STUDIO_CONCEPT_CONTRACT",
+    "final_status":  "XIAOJIAO_CLASSROOM_TEACHING_STUDIO_CONCEPT_CONTRACT_PASS",
+    "generated_at":  "2026-06-13T00:00:00+08:00",
+    "zip_path":  "docs/audit_packages/xiaojiao_classroom_teaching_studio_concept_contract_1002E.zip",
+    "zip_sha256":  "EXTERNAL_RECOMPUTATION_REQUIRED",
+    "zip_entry_count":  9,
+    "manifest_minus_zip":  [
+
+                           ],
+    "zip_minus_manifest":  [
+
+                           ],
+    "zip_entries":  [
+                        "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.md",
+                        "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.json",
+                        "docs/foundation/xiaojiao_classroom_teaching_studio_concept_contract_1002E.md",
+                        "docs/foundation/xiaojiao_classroom_teaching_studio_concept_contract_1002E.json",
+                        "samples/xiaojiao_classroom_teaching_studio_concept_contract_1002E/classroom_teaching_studio_concept_sample_1002E.json",
+                        "docs/audit/xiaojiao_classroom_teaching_studio_concept_contract_1002E_result.json",
+                        "docs/audit/xiaojiao_classroom_teaching_studio_concept_contract_1002E_report.md",
+                        "docs/audit_packages/xiaojiao_classroom_teaching_studio_concept_contract_1002E_manifest.json",
+                        "scripts/validate_xiaojiao_classroom_teaching_studio_concept_contract_1002E.py"
+                    ],
+    "entries":  [
+                    {
+                        "path":  "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.md",
+                        "size":  296,
+                        "sha256":  "B201BBCFD4CECF490465BCFDCC3CA128F25B10424067EB0025A25062ABE72556"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.json",
+                        "size":  896,
+                        "sha256":  "03BDEA8055D22F4C0F71B76CA5C659F50022A589D0240672706F95AEE13B02D7"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_classroom_teaching_studio_concept_contract_1002E.md",
+                        "size":  407,
+                        "sha256":  "58A97A25529FB37A2A680241CFB9B371EAC52C824196DE2857EFCB1E7BC03093"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_classroom_teaching_studio_concept_contract_1002E.json",
+                        "size":  1918,
+                        "sha256":  "8415484F47B6E6CEC361064354E271DB25C59B906BE68D4B80466FF9961A7169"
+                    },
+                    {
+                        "path":  "samples/xiaojiao_classroom_teaching_studio_concept_contract_1002E/classroom_teaching_studio_concept_sample_1002E.json",
+                        "size":  4110,
+                        "sha256":  "077F1392FAFB7BFBF67B064E1074EDFEEC9BB89C9720CF73C3518E5D31B0E3A1"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_classroom_teaching_studio_concept_contract_1002E_result.json",
+                        "size":  1568,
+                        "sha256":  "DEEF779D390F868394FE9198C7D9E51CD70CB70900020DD48BB5B6559712B5FA"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_classroom_teaching_studio_concept_contract_1002E_report.md",
+                        "size":  422,
+                        "sha256":  "B566E49C9E71D7A099F75BB8F3E30FBBBB8ED377B510D995695AE804BB8AAFB8"
+                    },
+                    {
+                        "path":  "docs/audit_packages/xiaojiao_classroom_teaching_studio_concept_contract_1002E_manifest.json",
+                        "size":  null,
+                        "sha256":  "SELF_REFERENTIAL"
+                    },
+                    {
+                        "path":  "scripts/validate_xiaojiao_classroom_teaching_studio_concept_contract_1002E.py",
+                        "size":  5326,
+                        "sha256":  "10BC8D5422505AFA0D8F1B1449D1AFED7E6ACEFDC9B8E50D580C42739E94288D"
+                    }
+                ],
+    "boundary":  {
+                     "dependency_installed":  false,
+                     "react_grid_layout_installed":  false,
+                     "dnd_kit_installed":  false,
+                     "gridstack_installed":  false,
+                     "real_frontend_modified":  false,
+                     "runtime_connected":  false,
+                     "teacher_control_runtime_connected":  false,
+                     "public_display_runtime_connected":  false,
+                     "student_runtime_connected":  false,
+                     "provider_model_called":  false,
+                     "database_written":  false,
+                     "memory_written":  false,
+                     "Feishu_written":  false,
+                     "formal_export_created":  false,
+                     "production_ui_implemented":  false,
+                     "real_classroom_delivery_connected":  false
+                 }
+}
