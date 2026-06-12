@@ -1,0 +1,98 @@
+{
+    "package_name":  "xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G",
+    "package_code":  "1002_XIAOJIAO_PROGRESSIVE_DYNAMIC_WORK_SURFACE_BIG_REVIEW_PACKAGE",
+    "stage_code":  "1002G_STUDENT_EVALUATION_ANALYSIS_BOARD_LOW_FIDELITY_PROTOTYPE",
+    "final_status":  "XIAOJIAO_STUDENT_EVALUATION_ANALYSIS_BOARD_LOW_FIDELITY_PROTOTYPE_PASS",
+    "generated_at":  "2026-06-13T00:00:00+08:00",
+    "zip_path":  "docs/audit_packages/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.zip",
+    "zip_sha256":  "EXTERNAL_RECOMPUTATION_REQUIRED",
+    "zip_entry_count":  10,
+    "manifest_minus_zip":  [
+
+                           ],
+    "zip_minus_manifest":  [
+
+                           ],
+    "zip_entries":  [
+                        "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.md",
+                        "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.json",
+                        "docs/foundation/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.md",
+                        "docs/foundation/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.json",
+                        "samples/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G/student_evaluation_analysis_board_fixture_1002G.json",
+                        "docs/audit/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G_result.json",
+                        "docs/audit/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G_report.md",
+                        "docs/audit_packages/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G_manifest.json",
+                        "scripts/validate_xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.py",
+                        "samples/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G/student_evaluation_analysis_board.html"
+                    ],
+    "entries":  [
+                    {
+                        "path":  "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.md",
+                        "size":  296,
+                        "sha256":  "B201BBCFD4CECF490465BCFDCC3CA128F25B10424067EB0025A25062ABE72556"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.json",
+                        "size":  896,
+                        "sha256":  "03BDEA8055D22F4C0F71B76CA5C659F50022A589D0240672706F95AEE13B02D7"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.md",
+                        "size":  435,
+                        "sha256":  "85A3CCCF86AF0B8D98541F9B508D5E7F4AB850663EC87A825AA630D319C0325D"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.json",
+                        "size":  1948,
+                        "sha256":  "FCB79A37A4E6CE85F343632DAAE2149D6142FC784495BA054DF1235CF5A78DB1"
+                    },
+                    {
+                        "path":  "samples/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G/student_evaluation_analysis_board_fixture_1002G.json",
+                        "size":  2258,
+                        "sha256":  "EE1504661C48050D0C205FD01B3CA3033C07F1973301289C2DA8C612608F3A1D"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G_result.json",
+                        "size":  1612,
+                        "sha256":  "8F193D466900AA46A3CD94C8F74CCA66031615F3AC838E95EFA26C7EE3C60D83"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G_report.md",
+                        "size":  464,
+                        "sha256":  "AD8ECFBCABAED45AD4455F15BF6E42C498A473E968BA31ED537E38DF3427CF6D"
+                    },
+                    {
+                        "path":  "docs/audit_packages/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G_manifest.json",
+                        "size":  null,
+                        "sha256":  "SELF_REFERENTIAL"
+                    },
+                    {
+                        "path":  "scripts/validate_xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G.py",
+                        "size":  5423,
+                        "sha256":  "31B1E7D4CF42E806A1859B6923CE46E5E0FCEABDDD98C8946CE93B619C5776E2"
+                    },
+                    {
+                        "path":  "samples/xiaojiao_student_evaluation_analysis_board_low_fidelity_prototype_1002G/student_evaluation_analysis_board.html",
+                        "size":  1464,
+                        "sha256":  "E45D03A5F0DEB3F6C7460C4D1F98062605D35A906622B355DB52D4D1BD6189F8"
+                    }
+                ],
+    "boundary":  {
+                     "dependency_installed":  false,
+                     "react_grid_layout_installed":  false,
+                     "dnd_kit_installed":  false,
+                     "gridstack_installed":  false,
+                     "real_frontend_modified":  false,
+                     "runtime_connected":  false,
+                     "teacher_control_runtime_connected":  false,
+                     "public_display_runtime_connected":  false,
+                     "student_runtime_connected":  false,
+                     "provider_model_called":  false,
+                     "database_written":  false,
+                     "memory_written":  false,
+                     "Feishu_written":  false,
+                     "formal_export_created":  false,
+                     "production_ui_implemented":  false,
+                     "real_classroom_delivery_connected":  false
+                 }
+}
