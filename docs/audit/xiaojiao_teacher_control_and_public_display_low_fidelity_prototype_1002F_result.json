@@ -1,0 +1,29 @@
+{
+    "stage_code":  "1002F_TEACHER_CONTROL_AND_PUBLIC_DISPLAY_LOW_FIDELITY_PROTOTYPE",
+    "final_status":  "XIAOJIAO_TEACHER_CONTROL_AND_PUBLIC_DISPLAY_LOW_FIDELITY_PROTOTYPE_PASS",
+    "pass":  true,
+    "marker":  "ALL_1002F_TEACHER_CONTROL_AND_PUBLIC_DISPLAY_LOW_FIDELITY_PROTOTYPE_CHECKS_OK",
+    "low_fidelity_or_fixture_only":  true,
+    "validator_no_arg_pass":  true,
+    "validator_root_pass":  true,
+    "manifest_zip_alignment_pass":  true,
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "react_grid_layout_installed":  false,
+                           "dnd_kit_installed":  false,
+                           "gridstack_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "teacher_control_runtime_connected":  false,
+                           "public_display_runtime_connected":  false,
+                           "student_runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "production_ui_implemented":  false,
+                           "real_classroom_delivery_connected":  false
+                       },
+    "next_stage":  "1002G_STUDENT_EVALUATION_ANALYSIS_BOARD_LOW_FIDELITY_PROTOTYPE_PENDING_REVIEW"
+}
