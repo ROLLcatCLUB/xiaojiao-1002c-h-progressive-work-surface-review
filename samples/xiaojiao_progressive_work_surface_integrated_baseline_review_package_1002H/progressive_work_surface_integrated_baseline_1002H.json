@@ -1,0 +1,71 @@
+{
+    "stage_code":  "1002H_PROGRESSIVE_WORK_SURFACE_INTEGRATED_BASELINE_REVIEW_PACKAGE",
+    "fixture_type":  "integrated_baseline_review_package",
+    "surface_mode_decision_matrix":  {
+                                         "support_layer_drawer_picker":  [
+                                                                             "resource_library_pack"
+                                                                         ],
+                                         "guided_flow":  [
+                                                             "teaching_plan_pack"
+                                                         ],
+                                         "analysis_board":  [
+                                                                "student_evaluation_pack"
+                                                            ],
+                                         "grid_studio":  [
+                                                             "classroom_teaching_studio_pack",
+                                                             "resource_curation_pack"
+                                                         ],
+                                         "focus_surface":  [
+                                                               "lesson_design_pack"
+                                                           ],
+                                         "teacher_control_surface":  [
+                                                                         "classroom_teaching_studio_pack"
+                                                                     ],
+                                         "light_entry":  [
+                                                             "morning_entry"
+                                                         ],
+                                         "public_display_surface":  [
+                                                                        "classroom_teaching_studio_pack"
+                                                                    ]
+                                     },
+    "business_pack_to_surface_mapping":  {
+                                             "resource_library_pack":  "support_layer_drawer_picker",
+                                             "classroom_teaching_studio_pack":  "grid_studio_teacher_control_public_display",
+                                             "student_evaluation_pack":  "analysis_board",
+                                             "resource_curation_pack":  "grid_studio",
+                                             "teaching_plan_pack":  "guided_flow",
+                                             "lesson_design_pack":  "focus_surface_optional_grid_studio"
+                                         },
+    "dependency_install_decision_gate":  {
+                                             "user_confirmation_required":  true,
+                                             "current_dependency_install":  false,
+                                             "candidates":  [
+                                                                "React-Grid-Layout",
+                                                                "dnd-kit"
+                                                            ]
+                                         },
+    "ui_prototype_caveat":  "HTML files are low fidelity structural prototypes, not final visual design or production UI",
+    "next_stage_options":  [
+                               "1002I_GRID_ENGINE_SANDBOX_WITH_REACT_GRID_LAYOUT",
+                               "1003A_CLASSROOM_TEACHING_STUDIO_DEEP_DESIGN",
+                               "1004A_STUDENT_EVALUATION_ANALYSIS_BOARD_DEEP_DESIGN"
+                           ],
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "react_grid_layout_installed":  false,
+                           "dnd_kit_installed":  false,
+                           "gridstack_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "teacher_control_runtime_connected":  false,
+                           "public_display_runtime_connected":  false,
+                           "student_runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "production_ui_implemented":  false,
+                           "real_classroom_delivery_connected":  false
+                       }
+}
