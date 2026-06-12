@@ -1,0 +1,92 @@
+{
+    "package_name":  "xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H",
+    "package_code":  "1002_XIAOJIAO_PROGRESSIVE_DYNAMIC_WORK_SURFACE_BIG_REVIEW_PACKAGE",
+    "stage_code":  "1002H_PROGRESSIVE_WORK_SURFACE_INTEGRATED_BASELINE_REVIEW_PACKAGE",
+    "final_status":  "XIAOJIAO_PROGRESSIVE_WORK_SURFACE_INTEGRATED_BASELINE_REVIEW_PACKAGE_PASS",
+    "generated_at":  "2026-06-13T00:00:00+08:00",
+    "zip_path":  "docs/audit_packages/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.zip",
+    "zip_sha256":  "EXTERNAL_RECOMPUTATION_REQUIRED",
+    "zip_entry_count":  9,
+    "manifest_minus_zip":  [
+
+                           ],
+    "zip_minus_manifest":  [
+
+                           ],
+    "zip_entries":  [
+                        "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.md",
+                        "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.json",
+                        "docs/foundation/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.md",
+                        "docs/foundation/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.json",
+                        "samples/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H/progressive_work_surface_integrated_baseline_1002H.json",
+                        "docs/audit/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H_result.json",
+                        "docs/audit/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H_report.md",
+                        "docs/audit_packages/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H_manifest.json",
+                        "scripts/validate_xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.py"
+                    ],
+    "entries":  [
+                    {
+                        "path":  "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.md",
+                        "size":  296,
+                        "sha256":  "B201BBCFD4CECF490465BCFDCC3CA128F25B10424067EB0025A25062ABE72556"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_1002A_1002B_progressive_surface_foundation_summary.json",
+                        "size":  896,
+                        "sha256":  "03BDEA8055D22F4C0F71B76CA5C659F50022A589D0240672706F95AEE13B02D7"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.md",
+                        "size":  441,
+                        "sha256":  "3503AE5D9D27252C0B07ACB77A4EEFD212A7329F5CA173BDD844F1422D77BAD7"
+                    },
+                    {
+                        "path":  "docs/foundation/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.json",
+                        "size":  1942,
+                        "sha256":  "B5A9FD447C863F4F3B7FF79224C141CF37EE1AC0EC955902D58ADB6D36224129"
+                    },
+                    {
+                        "path":  "samples/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H/progressive_work_surface_integrated_baseline_1002H.json",
+                        "size":  4837,
+                        "sha256":  "D3A2C4C1ED04ED7CDD46567612F7D75D5CB9617E57CBDC3018FA87D9CEE877A1"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H_result.json",
+                        "size":  1609,
+                        "sha256":  "6D2A36DAC10699FEBAA82D68A3C4681BDD22B7F81A43B0D89F3356E61FAC56D9"
+                    },
+                    {
+                        "path":  "docs/audit/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H_report.md",
+                        "size":  473,
+                        "sha256":  "1BF97571828D0C8250DA038AC273203EEBA00E50DDD442CE11D02F058679F3DB"
+                    },
+                    {
+                        "path":  "docs/audit_packages/xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H_manifest.json",
+                        "size":  null,
+                        "sha256":  "SELF_REFERENTIAL"
+                    },
+                    {
+                        "path":  "scripts/validate_xiaojiao_progressive_work_surface_integrated_baseline_review_package_1002H.py",
+                        "size":  5398,
+                        "sha256":  "C1E8EDD8A48B3441859279B47DB16FF2635247A3F0EFC6A956E75C5BEB626397"
+                    }
+                ],
+    "boundary":  {
+                     "dependency_installed":  false,
+                     "react_grid_layout_installed":  false,
+                     "dnd_kit_installed":  false,
+                     "gridstack_installed":  false,
+                     "real_frontend_modified":  false,
+                     "runtime_connected":  false,
+                     "teacher_control_runtime_connected":  false,
+                     "public_display_runtime_connected":  false,
+                     "student_runtime_connected":  false,
+                     "provider_model_called":  false,
+                     "database_written":  false,
+                     "memory_written":  false,
+                     "Feishu_written":  false,
+                     "formal_export_created":  false,
+                     "production_ui_implemented":  false,
+                     "real_classroom_delivery_connected":  false
+                 }
+}
