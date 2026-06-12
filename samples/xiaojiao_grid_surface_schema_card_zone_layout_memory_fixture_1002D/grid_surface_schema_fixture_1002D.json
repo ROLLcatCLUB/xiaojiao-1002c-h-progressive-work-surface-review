@@ -1,0 +1,99 @@
+{
+    "stage_code":  "1002D_GRID_SURFACE_SCHEMA_CARD_ZONE_LAYOUT_MEMORY_FIXTURE",
+    "fixture_type":  "grid_surface_schema_fixture",
+    "surface_mode_schema":  [
+                                "light_entry",
+                                "guided_flow",
+                                "focus_surface",
+                                "grid_studio",
+                                "analysis_board",
+                                "teacher_control_surface",
+                                "public_display_surface",
+                                "resource_drawer",
+                                "resource_picker"
+                            ],
+    "zone_type_schema":  [
+                             "primary_work_zone",
+                             "supporting_material_zone",
+                             "tool_zone",
+                             "analysis_zone",
+                             "flow_zone",
+                             "agent_note_layer",
+                             "work_record_drawer",
+                             "resource_drawer",
+                             "display_preview_zone",
+                             "teacher_control_zone"
+                         ],
+    "card_type_schema":  [
+                             "primary_work_object_card",
+                             "resource_card",
+                             "tool_card",
+                             "analysis_card",
+                             "output_card",
+                             "agent_note_card",
+                             "flow_step_card",
+                             "display_block_card",
+                             "control_card",
+                             "work_record_card"
+                         ],
+    "layout_schema":  {
+                          "fields":  [
+                                         "x",
+                                         "y",
+                                         "w",
+                                         "h",
+                                         "minW",
+                                         "minH",
+                                         "collapsed",
+                                         "pinned",
+                                         "docked",
+                                         "allowed_zones",
+                                         "resize_allowed",
+                                         "drag_allowed",
+                                         "teacher_override_allowed"
+                                     ],
+                          "columns":  12
+                      },
+    "layout_memory_policy":  [
+                                 "system_recommended_layout",
+                                 "business_pack_default_layout",
+                                 "task_instance_layout",
+                                 "teacher_override_layout",
+                                 "teacher_layout_preference_candidate",
+                                 "restore_default_layout"
+                             ],
+    "card_allowed_zone_rules":  [
+                                    "primary_work_object_cannot_be_hidden",
+                                    "agent_note_card_must_bind_object_or_zone",
+                                    "resource_card_default_no_primary_focus",
+                                    "tool_card_default_collapsed_in_tool_zone",
+                                    "analysis_card_expands_only_in_analysis_board_or_grid_studio",
+                                    "display_block_card_only_in_classroom_or_display_surface"
+                                ],
+    "business_pack_layout_presets":  [
+                                         "teaching_plan_pack:guided_flow",
+                                         "lesson_design_pack:focus_surface_optional_grid_studio",
+                                         "classroom_teaching_studio_pack:grid_studio_teacher_control_public_display",
+                                         "student_evaluation_pack:analysis_board",
+                                         "resource_library_pack:support_layer_resource_drawer_picker",
+                                         "resource_curation_pack:grid_studio"
+                                     ],
+    "boundary_flags":  {
+                           "dependency_installed":  false,
+                           "react_grid_layout_installed":  false,
+                           "dnd_kit_installed":  false,
+                           "gridstack_installed":  false,
+                           "real_frontend_modified":  false,
+                           "runtime_connected":  false,
+                           "teacher_control_runtime_connected":  false,
+                           "public_display_runtime_connected":  false,
+                           "student_runtime_connected":  false,
+                           "provider_model_called":  false,
+                           "database_written":  false,
+                           "memory_written":  false,
+                           "Feishu_written":  false,
+                           "formal_export_created":  false,
+                           "production_ui_implemented":  false,
+                           "real_classroom_delivery_connected":  false
+                       }
+}
